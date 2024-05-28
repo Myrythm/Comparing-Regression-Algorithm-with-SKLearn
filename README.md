@@ -1,7 +1,7 @@
 ## Comparing Regression Algorithms with SKLearn
 This project aims to compare various regression algorithms using the Scikit-Learn library. It includes implementations and evaluations of multiple regression models to understand their performance on this [datasets](https://raw.githubusercontent.com/IBM/ml-learning-path-assets/master/data/predict_home_value.csv). The models compared in this project are:
 
-= Simple Linear Regression
+- Simple Linear Regression
 - Multiple Linear Regression
 - Polynomial Linear Regression
 - Decision Tree Regression
